@@ -1,0 +1,9 @@
+Interface Names --> UpperCamelCase
+Exception Names --> {
+    Generic --> Exception[namespace]
+    Specific --> [namespace]Exception
+}
+Method Names --> lowerCamelCase
+Variable Names --> lowerCamelCase
+Constant Names --> UPPERCASE
+FileNames --> UpperCamelCase
